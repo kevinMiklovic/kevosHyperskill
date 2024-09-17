@@ -1,3 +1,2 @@
 # kevosHyperskill
 treningos
-okokok
